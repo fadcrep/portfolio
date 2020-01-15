@@ -71,6 +71,22 @@ nav {
         }
     }
 
+    .contactSection {
+        background-color: $white;
+        .contactTitle {
+            font-size: 3rem;
+            font-weight: 700;
+            color: $my_gray;
+            padding-top: 4rem;
+        }
+        .mylabel {
+            font-size: 2.85em !important;
+            
+        }
+
+        
+    }
+
 
 
     .divider-icon {
